@@ -1,10 +1,5 @@
-Script que pára uma instância após execução de um programa dado. 
+>Um punhado de scripts que facilitam nossas vidas< 
 
-Ex: Rodando o script stop-instance para parar uma instância após rodar o programa teste.py. Para isto:
+i) stop-instance.py: este script automaticamente pára (stop) uma instância EC2 após executar o comando solicitado. 
 
-rodar stop-instance: 
->> python stop-instance.py
-o programa irá solicitar o programa a ser executado. Basta digitá- lo
->> Cole aqui o comando a ser executado: python teste.py
-e pronto!
 
